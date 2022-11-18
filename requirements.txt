@@ -1,0 +1,4 @@
+Flask
+Authlib==1.1.0
+Flask-CORS
+requests
